@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_45"/>
+	<classpathentry kind="lib" path="G:/Ontology/For Java Program ALHUM/owlapi-osgidistribution-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Ontology/For Java Program ALHUM/LastJar ALHUM/slf4j.jar"/>
+	<classpathentry kind="lib" path="G:/Ontology/For Java Program ALHUM/slf4j-simple-1.6.2.jar"/>
+	<classpathentry kind="lib" path="G:/Ontology/For Java Program ALHUM/org.slf4j.log4j12-1.6.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JenaLibrary"/>
+	<classpathentry kind="lib" path="G:/Ontology/Final Jars ALHUM/httpclient-4.2.jar"/>
+	<classpathentry kind="lib" path="G:/Ontology/Final Jars ALHUM/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/Ontology/Final Jars ALHUM/jena.jar"/>
+	<classpathentry kind="lib" path="G:/Mysqlconnector ALHUM/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

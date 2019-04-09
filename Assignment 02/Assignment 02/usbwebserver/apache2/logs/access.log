@@ -1,0 +1,10 @@
+::1 - - [21/Nov/2016:00:14:14 +0200] "GET /phpmyadmin/ HTTP/1.1" 200 7945
+::1 - - [21/Nov/2016:00:14:15 +0200] "GET /phpmyadmin/phpmyadmin.css.php?server=1&token=fd1e30a09d022bb07d2cd86841348129&nocache=4125195912ltr HTTP/1.1" 200 88608
+::1 - - [21/Nov/2016:00:14:15 +0200] "GET /phpmyadmin/js/messages.php?lang=en&db=&server=0&token=fd131e7ff583bba60d3bd916cf9257f0 HTTP/1.1" 200 16674
+::1 - - [21/Nov/2016:00:14:17 +0200] "POST /phpmyadmin/index.php HTTP/1.1" 302 -
+::1 - - [21/Nov/2016:00:14:18 +0200] "GET /phpmyadmin/index.php?token=fd1e30a09d022bb07d2cd86841348129 HTTP/1.1" 200 43744
+::1 - - [21/Nov/2016:00:14:18 +0200] "GET /phpmyadmin/js/messages.php?lang=en&db=&server=0&token=fd1e30a09d022bb07d2cd86841348129 HTTP/1.1" 200 16674
+::1 - - [21/Nov/2016:00:14:18 +0200] "GET /phpmyadmin/phpmyadmin.css.php?server=1&token=fd1e30a09d022bb07d2cd86841348129&nocache=5604875970ltr HTTP/1.1" 200 88608
+::1 - - [21/Nov/2016:00:14:18 +0200] "GET /phpmyadmin/version_check.php?&_nocache=1479680058413646285 HTTP/1.1" 200 39
+::1 - - [21/Nov/2016:00:14:21 +0200] "GET /phpmyadmin/navigation.php?ajax_request=1&token=fd1e30a09d022bb07d2cd86841348129&aPath=cm9vdA%3D%3D.bWVkYXNzaWduMDI%3D&vPath=cm9vdA%3D%3D.bWVkYXNzaWduMDI%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1479680061111318178 HTTP/1.1" 200 1377
+::1 - - [21/Nov/2016:00:14:22 +0200] "GET /phpmyadmin/navigation.php?ajax_request=1&token=fd1e30a09d022bb07d2cd86841348129&aPath=cm9vdA%3D%3D.bWVkYXNzaWduMDM%3D&vPath=cm9vdA%3D%3D.bWVkYXNzaWduMDM%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1479680062891185659 HTTP/1.1" 200 97

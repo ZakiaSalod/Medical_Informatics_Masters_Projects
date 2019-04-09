@@ -1,0 +1,5 @@
+[Mon Nov 21 00:20:53.334180 2016] [mpm_winnt:notice] [pid 9424:tid 476] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Nov 21 00:20:53.334180 2016] [mpm_winnt:notice] [pid 9424:tid 476] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Nov 21 00:20:53.334180 2016] [core:notice] [pid 9424:tid 476] AH00094: Command line: 'C:\\Users\\zakias\\Dropbox\\INFT8F2H2 - 208501583 - Zakia Salod\\Assignment 03\\Usbwebserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/zakias/Dropbox/INFT8F2H2 - 208501583 - Zakia Salod/Assignment 03/Usbwebserver/apache2'
+[Mon Nov 21 00:20:53.340250 2016] [mpm_winnt:notice] [pid 9424:tid 476] AH00418: Parent: Created child process 9720
+[Mon Nov 21 00:20:53.859764 2016] [mpm_winnt:notice] [pid 9720:tid 480] AH00354: Child: Starting 64 worker threads.
